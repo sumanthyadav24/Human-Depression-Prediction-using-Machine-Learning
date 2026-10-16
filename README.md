@@ -78,5 +78,5 @@ it will  predict that he will go depression or not
 
 ## 👨‍💻 Author
 
-**Sai Gaddam**
+**Madham Sumanth**
 Machine Learning Enthusiast
